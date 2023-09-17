@@ -247,7 +247,7 @@ pyrsistent=0.18.0=py38hca72f7f_0
 pysimdjson=5.0.2=pypi_0
 pysocks=1.7.1=py38_1
 pystan=3.7.0=pypi_0
-python=3.8.8=h88f2d9e_5
+python=3.10.8=h88f2d9e_5
 python-dateutil=2.8.2=pyhd3eb1b0_0
 python-fastjsonschema=2.16.2=py38hecd8cb5_0
 python-libarchive-c=2.9=pyhd3eb1b0_1
